@@ -5,7 +5,7 @@ Version: 1.0.1
 Author: W3Extensions
 Description: Add upvote/downvote buttons to your WordPress posts.
 Contributors: bookbinder
-Tags: social bookmarking, ajax, voting
+Tags: social bookmarking, ajax, voting, points, rating, trending, upvote, downvote
 Requires at least: 4.7
 Tested up to: 5.0
 License: GPLv2 or later
