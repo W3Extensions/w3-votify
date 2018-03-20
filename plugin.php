@@ -1,7 +1,7 @@
 <?php
 /**
 Plugin Name: W3 Votify
-Version: 1.0.2
+Version: 1.0.3
 Author: W3Extensions
 Description: Add upvote/downvote buttons to your WordPress posts.
 Contributors: bookbinder
