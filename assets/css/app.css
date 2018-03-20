@@ -1,0 +1,97 @@
+.w3ac-comment-options-link{
+	font-size:15px;
+}
+
+.vote-buttons-wrapper.comment-vote {
+	font-weight:bold;
+}
+
+.post-vote .vote-count {
+	display:block;
+	width:40px;
+	text-align: center;	
+}
+
+.post-vote .vote-button {
+	cursor:pointer;
+}
+
+.vote-count {
+	width:100%;
+	color:#666;
+	font-weight:normal;
+	font-size:20px;
+	font-weight:bold;
+}
+
+.post-vote .vote-button.vote-up:hover {
+	background: url(../img/chevron-up-red.svg);
+	background-size: 60% 60%;
+	background-repeat: no-repeat;
+	background-position: center center;	
+	width:40px;
+	height:30px;	
+}
+
+
+.post-vote .vote-button.vote-down:hover {
+	background: url(../img/chevron-down-red.svg);
+	background-size: 60% 60%;
+	background-repeat: no-repeat;
+	background-position: center center;		
+	width:40px;
+	height:30px;	
+}
+
+.post-vote .vote-button.vote-up.active {
+	background: url(../img/chevron-up-red.svg);
+	background-size: 60% 60%;
+	background-repeat: no-repeat;
+	background-position: center center;		
+	width:40px;
+	height:30px;		
+}
+
+
+.post-vote .vote-button.vote-down.active {
+	background: url(../img/chevron-down-red.svg);
+	background-size: 60% 60%;
+	background-repeat: no-repeat;
+	background-position: center center;		
+	width:40px;
+	height:30px;			
+}
+
+
+.post-vote .vote-button.vote-up {
+	background:url(../img/chevron-up-grey.svg);
+	background-size: 60% 60%;
+	background-repeat: no-repeat;
+	background-position: center center;	
+	width:40px;
+	height:30px;		
+	display:block;
+}
+
+
+.post-vote .vote-button.vote-down {
+	background:url(../img/chevron-down-grey.svg);
+	background-size: 60% 60%;
+	background-repeat: no-repeat;
+	background-position: center center;	
+	width:40px;
+	height:30px;	
+	display:block;
+}
+
+.commentlist .vote-button {
+	width:27px;
+	display:inline-block;
+	text-align:center;
+}
+
+
+.commentlist .vote-button, .commentlist .vote-count {
+	padding: 0.15rem 0.2rem;
+	font-size: 16px;
+}
