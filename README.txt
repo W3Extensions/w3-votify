@@ -1,4 +1,4 @@
-=== Voting Plugin -- W3 Votify ===
+=== Upvote/Downvote Plugin -- W3 Votify ===
 Contributors: bookbinder
 Tags: social bookmarking, ajax, voting, points, rating, trending, upvote, downvote
 Requires at least: 4.7
